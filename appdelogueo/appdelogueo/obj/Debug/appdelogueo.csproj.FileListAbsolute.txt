@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\bin\Debug\appdelogueo.exe.config
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\bin\Debug\appdelogueo.exe
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\bin\Debug\appdelogueo.pdb
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.Form1.resources
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.exe
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.pdb
+C:\Users\admin\Documents\GitHub\ProyectoGeneralProgra1\appdelogueo\appdelogueo\obj\Debug\appdelogueo.Vista.frmMenu.resources
